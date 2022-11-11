@@ -14,3 +14,8 @@
 #### Amit kumar Yadav
 
 #### Aanya Chourasiya
+
+# Project Coordinator:
+#### Prof.Priyanka Jangde
+
+#### Prof.Narendra Pal Singh Rathore
