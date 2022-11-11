@@ -7,15 +7,15 @@
 
 # Project Contributors:
 
-#### Akshay Keswani
+#### 1. Akshay Keswani
 
-#### Aditya Sharma
+#### 2. Aditya Sharma
 
-#### Amit kumar Yadav
+#### 3. Amit kumar Yadav
 
-#### Aanya Chourasiya
+#### 4. Aanya Chourasiya
 
 # Project Coordinator:
-#### **Prof.Priyanka Jangde**
+#### - **Prof.Priyanka Jangde**
 
-#### **Prof.Narendra Pal Singh Rathore**
+#### - **Prof.Narendra Pal Singh Rathore**
