@@ -23,3 +23,5 @@
 #### - **Prof.Priyanka Jangde**
 
 #### - **Prof.Narendra Pal Singh Rathore**
+
+![Paper Link](https://www.irjmets.com/paperdetail.php?paperId=19a5e9a047efc275a1c0da054d22ad1f&title=Sign+Language+Translator+using+OpenCV&authpr=Akshay+Keswani)
