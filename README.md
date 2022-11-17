@@ -31,6 +31,7 @@
 
 <hr>
 # Output:
+
 ![image](https://user-images.githubusercontent.com/71098450/202464691-b9631147-fac1-41f4-9146-7460d0e0359b.png)
 <hr>
 ![image](https://user-images.githubusercontent.com/71098450/202464737-e979b398-4a1e-4e51-a3e3-9d7e64261e4c.png)
